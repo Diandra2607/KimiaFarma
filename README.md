@@ -1,0 +1,4 @@
+# Background
+PT Kimia Farma Tbk is the first pharmaceutical industry company in Indonesia, founded by the Dutch East Indies Government in 1817 under the name NV Chemicalien Handle Rathkamp & Co.
+After the nationalization of Dutch companies in 1958, the company became the State Pharmaceutical Company Bhinneka Kimia Farma. On August 16, 1971, its status was changed to a limited liability company under the name PT Kimia Farma (Persero). On July 4, 2001, the company became a public company by listing its shares on the Jakarta Stock Exchange and the Surabaya Stock Exchange. In 2020, Kimia Farma became part of the state-owned pharmaceutical holding company under PT Bio Farma (Persero).
+Kimia Farma has various business lines, including pharmaceutical production, distribution and trading, as well as pharmaceutical retail services through a network of pharmacies and health clinics spread throughout Indonesia.
