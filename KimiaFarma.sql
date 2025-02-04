@@ -79,8 +79,7 @@ FROM
 GROUP BY
   provinsi
 ORDER BY
-    total_transaksi DESC
-LIMIT 10;
+    total_transaksi DESC;
 
 SELECT
     EXTRACT(YEAR FROM date) AS tahun,
